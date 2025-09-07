@@ -1,22 +1,22 @@
 <div align="center">
 
-# 👋 Olá! Seja bem-vindo ao meu GitHub  
+# <h2>👋 Olá! Seja bem-vindo ao meu GitHub  </h2>
 
 
 ## 🛠️ Tecnologias  
 
-## 🌐 Frontend  
+## <h3>🌐 Frontend  <h3> 
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/) 
 [![NextJS](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/) 
 [![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/) 
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)  
 
-### ⚙️ Backend  
+### <h3>⚙️ Backend</h3>
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
 [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
 [![Fastify](https://skillicons.dev/icons?i=fastapi)](https://fastify.dev/)
 
-### 🗄️ Banco de Dados  
+### 🗄️ Banco de Dados
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/) 
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)  
 
