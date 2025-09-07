@@ -1,8 +1,10 @@
-# 👋 Olá! Seja bem-vindo ao meu GitHub
+<div align="center">
+
+# 👋 Olá! Seja bem-vindo ao meu GitHub  
 
 ---
 
-## 🛠️ Tecnologias 
+## 🛠️ Tecnologias  
 
 ### 🌐 Frontend  
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/) 
@@ -19,28 +21,28 @@
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/) 
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)  
 
-### Nuvem  
-
+### ☁️ Nuvem  
 [![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)  
 
-### Ferramentas 
+### 🛠 Ferramentas  
 [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/) 
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)  
 
 ---
+## Sobre mim  
+Sou **Desenvolvedor Full Stack** com mais de **3 anos de experiência**, atuando desde **2022**.  
+Tenho domínio em **React, JavaScript, TypeScript e Node.js**, desenvolvendo soluções eficientes e escaláveis.  
 
-## 📊 Estatísticas 
-
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielR255&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielR255&layout=compact&theme=radical)  
-
----
+Também tenho experiência com **automações utilizando IA** e criação de **agentes inteligentes** para otimização de projetos.  
+Valorizo a **proatividade, trabalho em equipe, bom relacionamento** e a **resolução de problemas com pensamento analítico**. 
 
 ## 📫 Contato  
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://meuportfoliodevp.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielrodriguesrn)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielr.rodriguesrn@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://meuportfoliodevp.netlify.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielrodriguesrn)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielr.rodriguesrn@gmail.com)  
 
 ---
+
+</div>
