@@ -1,6 +1,6 @@
 <div align="center">
 
-# <h2>👋 Olá! Seja bem-vindo ao meu GitHub  </h2>
+<h2>👋 Olá! Seja bem-vindo ao meu GitHub  </h2>
 
 
 ## 🛠️ Tecnologias  
